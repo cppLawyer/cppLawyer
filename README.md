@@ -1,6 +1,6 @@
 Hello there, I’m Abdelaziz, also known as cppLawyer.
 
-Currently volunteer and contributor by VLC open source project.
+Currently volunteer at VLC project.
 
 I am interested in HPC, GUI (MACOSX, Windows, Android, IOS, and Linux), and Embedded Software.
 
