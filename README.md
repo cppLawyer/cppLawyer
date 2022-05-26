@@ -1,4 +1,4 @@
-Hello there, I am Abdelaziz, also known as cppLawyer.
+Hello there, I am cppLawyer.
 
 I am interested in HPC, GUI on macOS, Windows, Android, IOS, Linux, and Embedded Software.
 
